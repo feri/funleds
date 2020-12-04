@@ -1,6 +1,6 @@
 ## FunLeds
 
-A tiny project to drive LED lights connected to an (Arduino Nano)[https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano].
+A tiny project to drive LED lights connected to an [Arduino Nano](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano).
 
 The motivation for the project came from a small Christmas tree that had a
 broken [COB](https://en.wikipedia.org/wiki/Chip_on_board) circuit.
@@ -13,7 +13,7 @@ play and learn about basic embedded development.
 
 The result is not an award winning high-tech "product", but it works:
 
-![Picture 1](https://photos.app.goo.gl/C262GftGPov8SX3q8)
+![Picture 1](web/funleds_1.jpg)
 
 ### Firmware
 
